@@ -5,7 +5,7 @@
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
            SELECT DADOS ASSIGN
-           'C:\Users\taisr\OneDrive\Área de Trabalho\COBOL\DADOS.TXT'
+           'CAMINHO DO ARQUIVO\NOME-ARQUIVO.EXTENSÃO'
            ORGANIZATION IS SEQUENTIAL
            FILE STATUS IS WS-STATUS-ARQUIVO.
 
